@@ -11,7 +11,7 @@ A collection of custom Strudel themes and musical pieces created by Chiron.
 
 ### chirongreen
 
-A dark theme with green accents, inspired by Material Design colors. Features:
+A dark theme with green accents. Features:
 - Dark background (`#0f1117`) for comfortable coding
 - Green strings (`#99D066`) and amber identifiers (`#FFC107`)
 - Purple keywords (`#cf6edf`) and blue functions (`#82AAFF`)
@@ -56,13 +56,6 @@ A dark theme with green accents, inspired by Material Design colors. Features:
 ## Pieces
 
 ### nightfall
-
-A dark ambient piece featuring:
-- Layered drum patterns with variations
-- Filter-swept bass line
-- Atmospheric pad sounds
-- Percussive elements with spatial effects
-- Reverb and delay processing
 
 ## Usage
 
