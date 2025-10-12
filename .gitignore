@@ -1,0 +1,18 @@
+# StrudelWorks
+
+Custom themes and pieces for Strudel live coding environment.
+
+## Quick Start
+
+1. Install the chirongreen theme (see README.md for details)
+2. Load nightfall.js in Strudel
+3. Press Ctrl+Enter to start
+
+## Files
+
+- `themes/chirongreen.mjs` - Dark theme with green accents
+- `pieces/nightfall.js` - Ambient piece with drums, bass, pad, and percussion
+
+## Installation
+
+Copy the theme file to your Strudel installation and add it to themes.mjs as described in README.md.
