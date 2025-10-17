@@ -1,7 +1,6 @@
 /*
 @title Nightfall
 @by CHIRON
-@license CC BY-NC-SA
 */
 
 setcpm(120/4)
